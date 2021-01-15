@@ -9,7 +9,18 @@ Repository contains two files:
 
 ## Features
 
-TBD
+The Jupyter Notebook file contains the following outputs:
+(Note, Table# refers to the order the DataFrame appears in the file)
+
+Table1 
+- Number of Players
+
+Table2
+- Number of Unique Items
+- Average Price
+- Number of Purchases
+- Total Revenue
+
 
 ## Licensing
 
